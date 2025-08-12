@@ -83,7 +83,7 @@ function App() {
             <div className="hidden md:flex items-center space-x-4">
               <Button variant="outline" className="btn-luxury-outline">
                 <Phone className="w-4 h-4 mr-2" />
-                (480) 555-0123
+                (602) 350-9331
               </Button>
               <Button className="btn-luxury">
                 Book Mobile Service
@@ -118,7 +118,7 @@ function App() {
                 <div className="flex flex-col space-y-2 pt-4">
                   <Button variant="outline" className="btn-luxury-outline justify-start">
                     <Phone className="w-4 h-4 mr-2" />
-                    (480) 555-0123
+                    (602) 350-9331
                   </Button>
                   <Button className="btn-luxury">
                     Book Mobile Service
@@ -150,7 +150,7 @@ function App() {
               </Button>
               <Button size="lg" variant="outline" className="btn-luxury-outline text-lg px-8 py-4">
                 <Phone className="w-5 h-5 mr-2" />
-                Call (480) 555-0123
+                Call (602) 350-9331
               </Button>
             </div>
             <div className="flex flex-wrap justify-center gap-4 text-sm">
@@ -815,7 +815,7 @@ function App() {
                     <Phone className="w-6 h-6 text-primary mr-3" />
                     <div>
                       <h3 className="font-semibold">Call Us Today</h3>
-                      <p className="text-2xl font-bold text-primary">(480) 555-0123</p>
+                      <p className="text-2xl font-bold text-primary">(602) 350-9331</p>
                     </div>
                   </div>
                   <Button className="w-full btn-luxury">
@@ -831,7 +831,7 @@ function App() {
                     <Mail className="w-6 h-6 text-primary mr-3" />
                     <div>
                       <h3 className="font-semibold">Email Us</h3>
-                      <p className="text-muted-foreground">info@josedetunamobiledetailing.com</p>
+                      <p className="text-muted-foreground">josedeluna217@gmail.com</p>
                     </div>
                   </div>
                 </CardContent>
@@ -915,8 +915,8 @@ function App() {
             <div>
               <h4 className="font-semibold mb-4">Contact</h4>
               <div className="space-y-2 text-muted-foreground">
-                <p>(480) 555-0123</p>
-                <p>info@josedetunamobiledetailing.com</p>
+                <p>(602) 350-9331</p>
+                <p>josedeluna217@gmail.com</p>
                 <p>Phoenix Metro Area</p>
               </div>
             </div>
